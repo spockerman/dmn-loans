@@ -141,7 +141,7 @@
       <dmn:annotation name=""/>
       <dmn:rule id="_480C3FEA-649B-47FE-BF15-00E9D5506AA1">
         <dmn:inputEntry id="_5E048B97-A1B3-42C0-B729-39DEECF3A3B1">
-          <dmn:text>&gt;720</dmn:text>
+          <dmn:text>&gt;750</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_8E9DCFB1-4BE2-4ED8-A30B-6E82265AEFE6">
           <dmn:text>"Affordable","Marginal"</dmn:text>
@@ -448,7 +448,7 @@
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="254" y="41" width="183" height="111"/>
+        <dc:Bounds x="254" y="11" width="183" height="111"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_10749B32-AF8B-494E-A9DD-322DA60BF013" dmnElementRef="_10749B32-AF8B-494E-A9DD-322DA60BF013" isCollapsed="false">
@@ -539,15 +539,15 @@
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_B08611A9-247F-4E8A-9C07-5C1B4D4AE68C" dmnElementRef="_B08611A9-247F-4E8A-9C07-5C1B4D4AE68C">
         <di:waypoint x="179.5" y="225.46052631578948"/>
-        <di:waypoint x="345.5" y="152"/>
+        <di:waypoint x="345.5" y="122"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_6075D73A-1757-45C2-9763-EA46B98FDC10" dmnElementRef="_6075D73A-1757-45C2-9763-EA46B98FDC10">
         <di:waypoint x="497" y="210"/>
-        <di:waypoint x="345.5" y="152"/>
+        <di:waypoint x="345.5" y="122"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_AB6376E3-57F7-45F9-8FC0-C5411070F11C" dmnElementRef="_AB6376E3-57F7-45F9-8FC0-C5411070F11C">
         <di:waypoint x="569" y="95.68421052631578"/>
-        <di:waypoint x="437" y="96.5"/>
+        <di:waypoint x="437" y="66.5"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_C7442416-FA98-4AA0-9C6D-B12DF516C554" dmnElementRef="_C7442416-FA98-4AA0-9C6D-B12DF516C554">
         <di:waypoint x="351.0046728971963" y="983"/>
